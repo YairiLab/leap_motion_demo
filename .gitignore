@@ -1,2 +1,9 @@
 *.class
 *.log
+
+target
+project/target
+
+lib
+
+.DS_Store
